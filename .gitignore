@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+answers/
+snapshots/
+reports/
+.streamlit/secrets.toml
+vision_worker.log
